@@ -1,7 +1,7 @@
-# Genre Decoder — Movie Genre Classification
+# Genre Decoder — Movie Genre Classification (NLP)
 
 ## Problem Statement
-Predict a movie's genre based on its plot summary, using text classification techniques.
+Predict a movie's genre based on its plot summary, using NLP-based text classification techniques.
 
 ## Dataset
 [Genre Classification Dataset IMDb (Kaggle)](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
@@ -31,7 +31,7 @@ jupyter notebook notebooks/movie_genre_classification.ipynb
 ```
 
 ## Tech Stack
-Python, pandas, scikit-learn, TF-IDF, matplotlib, seaborn
+Python, pandas, scikit-learn, NLP, TF-IDF, matplotlib, seaborn
 
 ## Author
 **Shivani**
