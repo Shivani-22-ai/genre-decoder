@@ -1,6 +1,4 @@
-# Task 1: Movie Genre Classification
-
-**CODSOFT Machine Learning Internship**
+# Genre Decoder — Movie Genre Classification
 
 ## Problem Statement
 Predict a movie's genre based on its plot summary, using text classification techniques.
@@ -27,15 +25,18 @@ Not included in this repo due to file size and repo hygiene. Download from the l
 | Logistic Regression | 0.488 | 0.365 | 0.512 |
 | Linear SVM | 0.529 | 0.348 | 0.536 |
 
-
 ## How to Run
 ```bash
-cd task1_movie_genre_classification
 jupyter notebook notebooks/movie_genre_classification.ipynb
 ```
 
 ## Tech Stack
 Python, pandas, scikit-learn, TF-IDF, matplotlib, seaborn
 
----
-*Part of the [CODSOFT Machine Learning Internship](../README.md) task series.*
+## Author
+**Shivani**
+B.Tech Computer Science (AI & ML), Sreenidhi Institute of Science and Technology (SNIST), Hyderabad
+
+- GitHub: [github.com/Shivani-22-ai](https://github.com/Shivani-22-ai)
+- LeetCode: [leetcode.com/u/Shivanil_22](https://leetcode.com/u/Shivanil_22/)
+- CodeChef: [codechef.com/users/shivanil_22](https://www.codechef.com/users/shivanil_22)
